@@ -34,7 +34,7 @@ const AdvancedCustomerServices: FC = () => {
                             borderTop: '227px solid #b65d5d',
                             position: 'absolute',
                             right: '82rem',
-                            bottom: '56rem'
+                            bottom: '51.5rem'
                         }} ></div>
                         <h5>Advanced Customer Service Platform</h5>
                         <h1 style={{ fontWeight: 'bolder', fontFamily: 'system-ui' }} >Platform Overview</h1>

@@ -15,7 +15,7 @@ const Platform: FC = () => {
                 borderRadius: '102px 5rem 0px',
                 zIndex: '0',
                 position: 'absolute',
-                top: '97rem',
+                top: '105rem',
                 right: '111rem',
                 transform: 'rotate(-11deg)'
             }}></div>
