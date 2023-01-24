@@ -4,7 +4,7 @@ import Grid from '@mui/material/Grid'
 import MuiLink from '@mui/material/Link'
 import type { Navigation } from '@/interfaces/navigation'
 import { FooterSectionTitle } from '@/components/footer'
-import { Button } from 'react-bootstrap'
+import { Button } from '@mui/material'
 
 const noseServices: Array<Navigation> = [
   {
