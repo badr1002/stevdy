@@ -68,7 +68,7 @@ const Testimonial: FC = () => {
                 }}>
                     <Grid item lg={4} xs={0}></Grid>
                     <Grid item lg={4} xs={12}>
-                        <h1 style={{ fontWeight: 'bolder', fontFamily: 'system-ui' }}>Dont't Just Take our Word for it!</h1>
+                        <h1 style={{ fontWeight: 'bolder', fontFamily: 'system-ui' }}>Do not Just Take our Word for it!</h1>
                     </Grid>
                     <Grid item lg={4} xs={0}></Grid>
                     <Grid container spacing={0} sx={{
